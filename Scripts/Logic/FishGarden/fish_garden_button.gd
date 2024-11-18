@@ -1,6 +1,6 @@
 extends Button
 
-@onready var window_scene = preload("res://Scenes/fish_garden.tscn")
+@onready var window_scene = preload("res://Scenes/window.tscn")
 
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
